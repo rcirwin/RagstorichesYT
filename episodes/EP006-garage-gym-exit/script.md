@@ -1,23 +1,89 @@
 # Garage Gym to Million-Dollar Exit - Full Script
 
-The fancy gyms had eucalyptus towels. Jordan Blake had a condemned auto bay that smelled like rubber and chance. If you're tired of glossy fitness fairy tales, this is the story of grit, equity, and an exit no one saw coming.
+## Characters
+- **Jordan Blake**: Ex‑athlete; facility manager turned founder; standards + transparency
+- **Renee Carter**: Head coach; first phantom‑equity partner
+- **Marcus Lee**: Fractional CFO; designs comp and exit
+- **Clara Nguyen**: HR lead; corporate wellness champion
 
-By the end of this video, you’ll see how an ex-athlete recruited elite coaches with real upside, turned a drafty garage into a membership machine, and sold to a boutique chain without selling his soul.
+## Settings
+- **Condemned Auto Bay → IronYard Strength**: Garage conversion
+- **Coach Office**: Comp and cohort reviews
+- **Corporate On‑Site**: Lunchtime classes
+- **Investor Table**: Exit negotiation
 
-Jordan didn’t want to be the strongest guy in the room. He wanted to build the room. At thirty-three, he’d managed facilities, coached part-time, and watched talent burn out for lack of ownership. The landlord of a shuttered auto shop made him an offer: a tenant improvement credit if he signed a seven-year lease and solved the neighbor complaints about noise.
+---
 
-“Authentic beats pretty,” Jordan told Renee, the coach everyone tried to poach. “I’ll pay market, but the upside is equity if your book grows and stays.” Not stock—phantom equity and a retention bonus pool. Upside without losing control.
+## Scene 1: Rubber and Chance — Morning
+**Duration**: 2 minutes
+**Visual Focus**: Gritty garage tour; lease with TI credit
 
-Buildout was war by a thousand checklists: permits, sound mitigation, fire code, equipment leases, and the kind of rubber flooring the neighbors couldn’t hear. Classes launched packed, then dipped. Cohort analysis drew a painful picture: new members churned at day ninety. The fix wasn’t discounts. It was an on-ramp, accountability pods, and visible progression.
+Jordan Blake didn’t want eucalyptus towels. He wanted a room where work echoed. The landlord offered a tenant improvement credit if Jordan signed a seven‑year lease and solved the neighbor complaints about noise.
 
-Then came the gut punch. A top coach threatened to leave over comp confusion. Jordan and Marcus, the fractional CFO, sat with the team and opened the books: how phantom shares paid out at milestones, how the retention pool grew with profit, how members per class tied to bonus tiers. The walkout became a workshop. Trust returned.
+“Authentic beats pretty,” Jordan told Renee. “I’ll pay market, but your upside is equity tied to the book you build and keep.” Not stock—phantom equity and a retention bonus pool. Upside without losing control.
 
-Corporate wellness changed everything. Clara from a local tech firm needed lunchtime classes and a quarterly fitness challenge. That contract filled dead daytime slots at high margin and brought referral waves on weekends. Utilization climbed to the 70–80% window that makes math sing.
+---
 
-Two years in, IronYard Strength had five hundred fifty members, four corporate contracts, and a reputation for turning average folks into athletes who showed up for each other. The boutique chain that bought them didn’t just want floors and racks. They wanted the cap table, the cohort playbook, and the culture.
+## Scene 2: Build the Room — Evening
+**Duration**: 2 minutes
+**Visual Focus**: Recruiting coaches; culture contract
 
-The deal: $2.2 million—cash at close and a two-year earnout tied to membership targets—with an 8% trainer retention bonus pool. Brand intact. Coaches promoted. Playbook licensed.
+Renee wasn’t sold on slogans. She wanted numbers. Marcus, the fractional CFO, sketched a cap‑table on a whiteboard: phantom units vesting with retention and member outcomes; bonus pool grows with profit; no surprises at tax time.
 
-Here’s what actually mattered. Equity design aligned trainers without giving away the company. Cohorts revealed the leak you can’t see with vanity membership counts. Utilization, not hype, paid the bills. And culture was built on transparency before trouble—not apologies after.
+“Own the results you create,” Jordan said. “And see them in the books.”
 
-Subscribe if you want more stories where blue-collar builds end in white-collar exits.
+---
+
+## Scene 3: Permits, Neighbors, and Rubber — Weeks 1–8
+**Duration**: 3 minutes
+**Visual Focus**: Buildout slog; equipment; compliance
+
+Sound mitigation. Fire code. Equipment leases. Rubber flooring thick enough the neighbors couldn’t hear a deadlift. The first classes launched hot. Then dipped. Jordan didn’t panic. He pulled cohorts.
+
+---
+
+## Scene 4: The 90‑Day Leak — Month 3
+**Duration**: 3 minutes
+**Visual Focus**: Cohort analysis; on‑ramp and progression
+
+Spreadsheets told a simple truth: new members churned at day ninety. The fix wasn’t discounts. It was an on‑ramp, accountability pods of six, and visible progression badges that moved people from “Green” to “Iron.” Coaches earned more for progression, not just attendance.
+
+Retention ticked up. Classes refilled. The culture stopped depending on hype and started depending on habits.
+
+---
+
+## Scene 5: The Walkout That Became a Workshop — Month 6
+**Duration**: 2 minutes
+**Visual Focus**: Comp confusion; transparent books
+
+A top coach threatened to leave with two dozen members. Jordan and Marcus opened the books: exactly how phantom equity would pay at milestones; how the retention pool grew with profit; how members per class tied to bonus tiers.
+
+The walkout became a workshop. Trust returned because math replaced rumors.
+
+---
+
+## Scene 6: Daytime Money — Month 8
+**Duration**: 2 minutes
+**Visual Focus**: Corporate wellness; utilization lift
+
+Clara at a local tech firm needed lunch classes and a quarterly challenge. The contract filled dead daytime slots at high margin. Referrals spilled into evenings. Utilization climbed to the 70–80% window where math sings.
+
+---
+
+## Scene 7: The Offer — Year 2
+**Duration**: 2 minutes
+**Visual Focus**: Exit terms; brand protection
+
+IronYard Strength hit $1.2M ARR: 550 members, four corporate contracts, eighteen staff. A boutique chain offered $2.2M—70% cash, 30% earnout tied to membership targets—plus an 8% trainer retention bonus pool.
+
+“Brand intact. Coaches promoted. Playbook licensed,” Renee said, reading the term sheet.
+
+---
+
+## Scene 8: Why It Worked — Closing
+**Duration**: 2 minutes
+**Visual Focus**: Lessons and operating cadence
+
+Equity design aligned coaches without giving away the company. Cohorts revealed the leak vanity metrics hid. Utilization—not hype—paid the bills. Culture came from transparency before trouble, not apologies after.
+
+Subscribe if you want more stories where blue‑collar builds end in white‑collar exits.
